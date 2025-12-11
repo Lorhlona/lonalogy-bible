@@ -1,5 +1,7 @@
 # LoNalogy Bible
 
+[![DOI](https://zenodo.org/badge/1114592332.svg)](https://doi.org/10.5281/zenodo.17901426)
+
 **Unified Theory of Complex Information Fields**
 
 The complete theoretical foundation for LoNalogy and the Phase-Extended Standard Model (PESM).
@@ -71,6 +73,12 @@ See full changelog in the Bible documents.
 ## License
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - Attribution required
+
+## Citation
+
+```
+Lohrlona. (2025). LoNalogy Bible v4.0. Zenodo. https://doi.org/10.5281/zenodo.17901426
+```
 
 ## Author
 
